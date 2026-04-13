@@ -16,8 +16,8 @@
 - **Barcode Editor:** A web-based tool for retail label customization.
 
 ### 📊 GitHub Stats
-![Nawaf's Stats](https://github-readme-stats.vercel.app/api?username=nawaf-asaf&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaf-asaf&layout=compact&theme=radical)
+![Nawaf's Stats](https://github-readme-stats.vercel.app/api?username=nawaf-asag&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaf-asag&layout=compact&theme=radical)
 
 ---
 
